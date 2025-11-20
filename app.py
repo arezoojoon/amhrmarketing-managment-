@@ -27,7 +27,7 @@ TELEGRAM_API_URL = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}"
 DB_NAME = "amhr_leads.db"
 
 # لینک‌های ضروری
-BOOKING_URL = "https://calendly.com/your-link" # لینک کلندلی خود را اینجا قرار دهید
+BOOKING_URL = "https://calendly.com/amohammadzadegan" # لینک کلندلی خود را اینجا قرار دهید
 MAP_LINK = "https://maps.google.com/?cid=8846483346399154677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ"
 LINKEDIN_URL = "https://www.linkedin.com/in/arezoomohammadzadegan/"
 CATALOG_URL = "https://amhrd.com/catalog.pdf" # لینک کاتالوگ خدمات شرکت
